@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+.env
+.env.*
+*.log
+storage/*.key
+/public/storage
+/public/hot
+.idea
+.vscode
+
